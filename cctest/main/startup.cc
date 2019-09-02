@@ -1,4 +1,4 @@
-#include "cctest/core/startup.h"
+#include "cctest/main/startup.h"
 
 namespace cctest {
 
